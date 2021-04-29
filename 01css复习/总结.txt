@@ -1,0 +1,30 @@
+1.样式表优先级？
+行内>内嵌>外联
+谁离我近我就用谁
+2.选择器优先级？
+*号选择器>标签选择器>id选择器>class选择器>其他选择器
+3.text-transform: uppercase;
+文本转换                       全部大写
+				  capitalize;
+				   首字母大写
+				  lowercase;
+				    全部小写
+word-spacing:100px;
+单词间距   只对英文有效
+letter-spacing:100px;
+字母间距  对中文有效
+text-decoration: none;
+文字装饰                     取消下划线
+line-height: 100px;
+文字垂直居中
+4.颜色定义
+第1种：color:rgb(0-255,0-255,0-255)
+                 取值范围0~255
+color:rgb(99%,23%,12%)
+ 取值范围0~100%
+第2种：color：颜色单词
+第3种：color:#EFEAEA
+#+字母(取值范围a-f)
+color:#fff000
+#+字母(取值范围a-f)+数字(取值范围0~9)
+5.背景
